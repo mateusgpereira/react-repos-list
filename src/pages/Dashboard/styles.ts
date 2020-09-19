@@ -81,7 +81,7 @@ const Repositories = styled.div`
     }
 
     div {
-      flex: 1%;
+      flex: 1;
       margin: 0 16px;
 
       strong {
