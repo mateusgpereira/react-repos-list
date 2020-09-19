@@ -76,7 +76,7 @@ const RepositoryInfo = styled.section`
   }
 `
 
-const Issue = styled.div`
+const Issues = styled.div`
   margin-top: 80px;
 
   a {
@@ -116,4 +116,4 @@ const Issue = styled.div`
   }
 `
 
-export { Header, RepositoryInfo, Issue }
+export { Header, RepositoryInfo, Issues }
